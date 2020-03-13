@@ -1,0 +1,21 @@
+{
+    "name": "jjpmann/D8HWexample",
+    "description": "A Hello World module.",
+    "type": "drupal-custom-module",
+    "homepage": "https://github.com/jjpmann/D8HWexample",
+    "authors": [
+        {
+            "name": "Jerry Price",
+            "homepage": "https://github.com/jjpmann"
+        },
+
+        {
+            "name": "Sidney Harrell",
+            "homepage": "https://github.com/sidharrell"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/jjpmann/D8HWexample/issues"
+    },
+    "license": "GPL-2.0+"
+}
