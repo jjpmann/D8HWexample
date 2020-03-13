@@ -1,8 +1,8 @@
 {
-    "name": "jjpmann/D8HWexample",
+    "name": "jjjpmann/d8-helloworld-example",
     "description": "A Hello World module.",
     "type": "drupal-custom-module",
-    "homepage": "https://github.com/jjpmann/D8HWexample",
+    "homepage": "https://github.com/jjjpmann/d8-helloworld-example",
     "authors": [
         {
             "name": "Jerry Price",
@@ -15,7 +15,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/jjpmann/D8HWexample/issues"
+        "issues": "https://github.com/jjjpmann/d8-helloworld-example/issues"
     },
     "license": "GPL-2.0+"
 }
